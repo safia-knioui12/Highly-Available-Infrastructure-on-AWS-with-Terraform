@@ -1,0 +1,5 @@
+my_ip = "my_ip/32"
+key_name = "aws_key"
+bastion_instance_type = "t3.micro"
+web_instance_type = "t3.micro"
+db_instance_type = "t3.small"   
